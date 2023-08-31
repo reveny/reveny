@@ -9,6 +9,3 @@
 
 | <a href="https://github.com/reveny/Android-LD-Preload-Injector"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/pin/?username=reveny&repo=Android-LD-Preload-Injector&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/reveny/Zygisk-ImGui-Mod-Menu"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/pin/?username=reveny&repo=Zygisk-ImGui-Mod-Menu&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-| <a href="https://github.com/reveny/Android-Library-Remap-Hide"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/pin/?username=reveny&repo=Android-Library-Remap-Hide&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/reveny/Android-Emulator-Detection"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/pin/?username=reveny&repo=Android-Emulator-Detection&theme=github_dark&hide_border=true" /></a> |
-| ------------- | ------------- |
