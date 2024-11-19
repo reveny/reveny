@@ -9,3 +9,10 @@
 
 | <a href="https://github.com/reveny/Android-Native-Import-Hide"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/pin/?username=reveny&repo=Android-Native-Import-Hide&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/reveny/Android-Library-Remap-Hide"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/pin/?username=reveny&repo=Android-Library-Remap-Hide&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+## Contact
+For any questions, collaboration requests, or updates, feel free to reach out via:
+- **Telegram Channel**: [Join Channel](https://t.me/reveny1) <br>
+- **Telegram Contact**: [Contact Me](https://t.me/revenyy) <br>
+- **Website**: [My Website](https://reveny.me) <br>
+- **Email**: [contact@reveny.me](mailto:contact@reveny.me) <br>
